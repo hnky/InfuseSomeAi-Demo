@@ -3,6 +3,8 @@
   "Values": {
     "AzureWebJobsStorage": "",
     "AzureWebJobsDashboard": "",
-    "BlobStorageConnection": ""
+    "BlobStorageConnection": "",
+    "faceApiKey": "",
+    "visionApiKey": ""
   }
 }
