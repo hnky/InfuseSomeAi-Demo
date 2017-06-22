@@ -1,10 +1,11 @@
 {
-    "IsEncrypted": false,
+  "IsEncrypted": false,
   "Values": {
     "AzureWebJobsStorage": "",
     "AzureWebJobsDashboard": "",
     "BlobStorageConnection": "",
     "faceApiKey": "",
-    "visionApiKey": ""
+    "visionApiKey": "",
+    "personGroupName": "" 
   }
 }
